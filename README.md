@@ -1,5 +1,6 @@
 # Gyges
-[japanese stable clip](https://ja.stability.ai/blog/japanese-stable-clip)を利用した、画像のベクトル検索ツールです。
+ベクトル検索付きの高性能な画像ビューアです。
 
-専門的な知識は必要ありません。
-高性能な画像ビューアとしても使用できます。
+専門的な知識は一切必要ありません。
+
+[japanese stable clip](https://ja.stability.ai/blog/japanese-stable-clip)を利用して作成しました。
